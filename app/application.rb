@@ -2,7 +2,7 @@ def time
 
     if time.now > 12:00
       return "good morning"
-    else 
+    else
       return "good evening"
 
     end
